@@ -1,0 +1,5 @@
+aws
+node_modules
+.serverless
+
+.build
